@@ -1,2 +1,2 @@
 # Mysteries
-Important open problems that haven't been solved.
+A list of important open problems that continue to puzzle us to this day.
