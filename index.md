@@ -16,6 +16,24 @@ Just in case this description is not sufficiently evocative, here is a picture o
 
 The transition was not even that smooth, and there's a visible elbow point on the graph around the year 1800. This is the mystery that has to be explained - so what explanations have people offered for this remarkable phenomenon? It's of course impossible for this list to be exhaustive, but I try to cover some of the common explanations along with the reasons why they fall short [here](https://ege-erdil.github.io/mysteries/industrial_revolution).
 
+### Why do wars happen?
+
+Warfare is a puzzling human activity all around, and there are several unresolved questions about it which are mystifying. 
+
+The first one is why wars happen at all. A good introduction to this puzzle is [Rationalist explanations for war](https://web.stanford.edu/group/fearon-research/cgi-bin/wordpress/wp-content/uploads/2013/10/Rationalist-Explanations-for-War.pdf) by James D. Fearon. As Fearon summarizes,
+
+> The central puzzle about war, and also the main reason we study it, is that wars are costly but nonetheless wars recur. Scholars have attempted to resolve the puzzle with three types of argument. First, one can argue that people (and state leaders in particular) are sometimes or always irrational. They are subject to biases and pathologies that lead them to neglect the costs of war or to misunderstand how their actions will produce it. Second, one can argue that the leaders who order war enjoy its benefits but do not pay the costs, which are suffered by soldiers and citizens. Third, one can argue that even rational leaders who consider the risks and costs of war may end up fighting nonetheless.
+
+While it appears intuitively "obvious" to most people why there should be wars in a world of scarcity and conflicting aims, this obvious fact is in fact not as obvious as it might first appear. Fearon proposes a simple model of a dispute, in which two agents disagree about where the value of some variable x restricted to the closed interval [0, 1] should fall: the first agent has a payoff u(1-x) while the second agent has a payoff v(x), where u and v are two increasing utility functions. They can either choose to compromise at some value of x in between, or they can choose to go to war, in which case the first agent wins with a probability p and the second agent wins with a probability 1-p. The side that wins gets to achieve the optimal outcome for themselves, however there is a fixed cost c of going to war which is wasted.
+
+If the two sides go to war, then the first agent has an expected payoff p u(1-c) + (1-p) u(0), while the second agent has an expected payoff p v(0) + (1-p) v(1-c). Now, if we assume u and v are concave (not necessarily strictly) and strictly increasing, it's clear that both sides are better off compromising at the value x = 1-p than going to war.
+
+This toy model is interesting because it is a proof that one of its features must be violated if war is ever to be a rational choice. Fearon explores several possibilities: perhaps the issues over which wars are fought are indivisible so that no compromises are possible, perhaps agents don't have preferences that can be represented by concave utility functions so that their willingness to take risk overwhelms the costs of war, and perhaps the two sides disagree about their own chance of winning a war. These attempts to resolve the puzzle have their own problems, however.
+
+An alternative account which is popular among people familiar with the [hawk-dove game](https://en.wikipedia.org/wiki/Chicken_(game)#Hawk%E2%80%93dove) is that many real world interactions between governments are essentially like a hawk-dove game in which the two sides are indistinguishable, so the only Nash equilibrium is one in which people play a mixed strategy between hawk and dove, resulting in occasional wars with some arrival rate when two players play hawk simultaneously. The obvious problem with this argument is that the two sides *are* in fact distinguishable in the real world, and under those conditions the hawk-dove game does *not* have a mixed Nash equilibrium: the two equilibria are the ones in which one player plays hawk and the other player plays dove, resulting in no wars being observed in equilibrium.
+
+More commentary on this puzzle and attempts to answer other criticisms may be found [here](https://ege-erdil.github.io/mysteries/why_war).
+
 ### Nominal shocks have real effects?
 
 This is a mystery that is at the heart of macroeconomics, and one that has still not been resolved satisfactorily. If you've ever heard about [aggregate supply curves](https://en.wikipedia.org/wiki/AD%E2%80%93AS_model) or [Phillips curves](https://en.wikipedia.org/wiki/Phillips_curve), you likely already know what this puzzle is about, but if not here is a short explanation:
