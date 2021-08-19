@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+This page contains a non-exhaustive list of big open problems that remain unsolved despite being both highly puzzling and of great significance. They have resisted attempts by countless people to explain them - perhaps you will succeed where they have failed?
 
-You can use the [editor on GitHub](https://github.com/ege-erdil/mysteries/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The list will be in descending order of importance that I assign to the puzzles. We start with:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Industrial Revolution
 
-### Markdown
+What is perhaps most mysterious about the [Industrial Revolution](https://en.wikipedia.org/wiki/Industrial_Revolution) is the lack of recognition among most people that there is a big mystery to be explained here. Wikipedia states that
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> The Industrial Revolution was the transition to new manufacturing processes in Europe and the United States, in the period from between 1760 to 1820 and 1840. This transition included going from hand production methods to machines, new chemical manufacturing and iron production processes, the increasing use of steam power and water power, the development of machine tools and the rise of the mechanized factory system. The Industrial Revolution also led to an unprecedented rise in the rate of population growth.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ege-erdil/mysteries/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This is not even an adequate *definition* of the Industrial Revolution. As Robin Hanson notes in [*Long-Term Growth As A Sequence of Exponential Modes*](https://mason.gmu.edu/~rhanson/longgrow.pdf), what we really have to explain is a *phase transition* in economic activity. Sometime around the year 1800, GWP (gross world product) went from doubling roughly every 1000 years to doubling roughly every 15 years, and we have been in the new regime ever since then. This is a dramatic transformation of the world economy, comparable to a phase transition from solid to liquid or from liquid to gas.
