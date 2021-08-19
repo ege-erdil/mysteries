@@ -48,7 +48,7 @@ Year | French GDP per capita
 1850 | 2546
 1880 | 3379
 
-From this table it's rather obvious that France only transitioned to the industrial era after the end of the Napoleonic Wars in 1815. If the Industrial Revolution was indeed a product of the Enlightenment, then what we would have to believe is that the Enlightenment had absolutely no effect on economic activity for the hundred or so years that it was actually happening, and only a few decades after it was over did we finally begin to see its effects. However, when we allow oursevles to have such enormous latitude in fitting an explanation to the data, we could just as well claim that the Industrial Revolution was a delayed consequence of the dramatic rise in wages caused by the Black Death in Europe.
+From this table it's rather obvious that France only transitioned to the industrial era after the end of the Napoleonic Wars in 1815. If the Industrial Revolution was indeed a product of the Enlightenment, then what we would have to believe is that the Enlightenment had absolutely no effect on economic activity for the hundred or so years that it was actually happening, and only a few decades after it was over did we finally begin to see its effects. However, when we allow ourselves to have such enormous latitude in fitting an explanation to the data, we could just as well claim that the Industrial Revolution was a delayed consequence of the dramatic rise in wages caused by the Black Death in Europe.
 
 Without at least a precise correspondence between the timelines, the mere fact that these two things happened at "around the same time", give or take a hundred years, is not even strong evidence that they are *correlated*, much less that there is a *causal relationship* between them.
 
