@@ -16,7 +16,7 @@ Just in case this description is not sufficiently evocative, here is a picture o
 
 The transition was not even that smooth, and there's a visible elbow point on the graph around the year 1800. This is the mystery that has to be explained - so what explanations have people offered for this remarkable phenomenon? It's of course impossible for this list to be exhaustive, but I try to cover some of the common explanations along with the reasons why they fall short [here](https://ege-erdil.github.io/mysteries/industrial_revolution).
 
-### Nominal shocks have real effects
+### Nominal shocks have real effects?
 
 This is a mystery that is at the heart of macroeconomics, and one that has still not been resolved satisfactorily. If you've ever heard about [aggregate supply curves](https://en.wikipedia.org/wiki/AD%E2%80%93AS_model) or [Phillips curves](https://en.wikipedia.org/wiki/Phillips_curve), you likely already know what this puzzle is about, but if not here is a short explanation:
 
@@ -30,4 +30,4 @@ This allows monetary policy shocks to have a much more significant impact. For e
 
 The fact that non-inflation indexed debt contracts, wage contracts, *et cetera* are common even in countries with relatively high inflation rates is not under dispute, though as Stephen Williamson points out in [*New Monetarist Economics: Models*](https://www.minneapolisfed.org/research/sr/sr443.pdf), there is some dispute about the extent to which price or wage stickiness beyond what is present in these contracts is a real phenomenon. The mystery here is why people wouldn't arrange debt and employment contracts, product orders and so on in such a way that they are naturally indexed against inflation, and why it would take them a long time to adjust when there is a change in the value of the currency. The Italian experiment cited above shows that economies are certainly easily capable of doing such a thing, so why don't they if these frictions impose such large costs? Or is the truth that the frictions *don't* impose large costs, and the nominal rigidity-based macroeconomic paradigm is simply mistaken?
 
-I go into more detail about this puzzle and criticize some of the attempts to resolve it (here)[https://ege-erdil.github.io/mysteries/industrial_revolution].
+I go into more detail about this puzzle and criticize some of the attempts to resolve it [here](https://ege-erdil.github.io/mysteries/industrial_revolution).
