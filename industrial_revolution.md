@@ -12,7 +12,7 @@ Just in case this description is sufficiently evocative, here is a picture of wh
 
 The transition was not even that smooth, and there's a visible elbow point on the graph around the year 1800. This is the mystery that has to be explained - so what explanations have people offered for this remarkable phenomenon? It's of course impossible for this list to be exhaustive, but I try to cover some of the common explanations along with the reasons why they fall short here.
 
-#### There's nothing to explain
+### There's nothing to explain
 
 This view denies the existence of the mystery to begin with. As one Reddit user expresses it,
 
@@ -24,13 +24,13 @@ It is true that the industrial phase transition happened in different places at 
 
 I think anyone who can look at the graph above and conclude that "there's nothing to explain here" needs to visit an ophthalmologist.
 
-#### It's exponential growth
+### It's exponential growth
 
 This view maintains that the Industrial Revolution happened because of the tendency towards expoential growth built into technological progress and capital accumulation. The more we accumulate capital goods or discover new technologies, the more productive we become and the more easily we can build new machines or conduct research in novel directions.
 
 This explanation falls flat because what we're trying to explain is not the phenomenon of exponential growth itself, but the *phase transition* from one growth rate to another growth rate: roughly from a growth rate of 0.1% per year to a growth rate of 4.5% per year. If this explanation were true, then we would have simply continued to grow at our old growth rate of 0.1% per year, and there would have been no industrial revolution to begin with.
 
-#### It's the Renaissance, the Enlightenment, etc.
+### It's the Renaissance, the Enlightenment, etc.
 
 There are numerous problems with this explanation. The first one is that the timing doesn't fit at all. The Enlightenment was already over when the first signs of the Industrial Revolution started to appear. Wikipedia says that
 
@@ -68,7 +68,7 @@ In the "Enlightenment Era" from 1637 to 1789, Britain was likely the fastest gro
 
 I think a plausible explanation for this is that Britain was the first country in the world to experience the industrial phase transition, and for them the transition was considerably smoother than it was for the rest of the world. However, it's still a fact that even for the UK the transition was only over well after the Enlightenment had ended, which makes this particular explanation look quite weak.
 
-#### It's a demographic transition
+### It's a demographic transition
 
 This explanation was proposed by Robert Lucas in [*Industrial Revolution: Past and Future*](https://www.minneapolisfed.org/article/2004/the-industrial-revolution-past-and-future). Quoting Lucas:
 
