@@ -1,2 +1,2 @@
-# mysteries
-Big open problems that haven't been solved yet.
+# Mysteries
+Important open problems that haven't been solved.
