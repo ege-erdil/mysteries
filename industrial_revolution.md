@@ -6,7 +6,7 @@ What is perhaps most mysterious about the [Industrial Revolution](https://en.wik
 
 This is not even an adequate *definition* of the Industrial Revolution. As Robin Hanson notes in [*Long-Term Growth As A Sequence of Exponential Modes*](https://mason.gmu.edu/~rhanson/longgrow.pdf), what we really have to explain is a *phase transition* in economic activity. Sometime around the year 1800, GWP (gross world product) went from doubling roughly every 1000 years to doubling roughly every 15 years, and we have been in the new regime ever since then. This is a dramatic transformation of the world economy, comparable to a phase transition from solid to liquid or from liquid to gas, and merits an explanation that is comparable to Landau's model of second order phase transitions.
 
-Just in case this description is sufficiently evocative, here is a picture of what that looks like:
+Just in case this description is not sufficiently evocative, here is a picture of what that looks like:
 
 ![Real GDP per capita](https://upload.wikimedia.org/wikipedia/commons/f/f3/World_GDP_Per_Capita_1500_to_2000%2C_Log_Scale.png)
 
