@@ -38,7 +38,7 @@ While it is certainly true that the interests of the leaders of a country are al
 
 ### There is disagreement about the chance of victory
 
-While [Aumann's theorem](http://www.math.huji.ac.il/raumann/pdf/Agreeing%20to%20Disagree.pdf) says that rational disagreement ought to be impossible when the probability estimates of both sides are common knowledge, and our tendency to disagree vehemently is certainly a puzzle in itself, for the purposes of this analysis we can take it for granted that humans disagree all the time on every imaginable issue. Therefore, the assumption that both sides would disagree on which side is how likely to win is not unreasonable, with the caveat that the disagreement has to be strong enough to overcome the cost of going to war in order to make a compromise unprofitable.
+While [Aumann's theorem](http://www.math.huji.ac.il/raumann/pdf/Agreeing%20to%20Disagree.pdf) says that rational disagreement ought to be impossible when the probability estimates of both sides are common knowledge, and our tendency to disagree vehemently is certainly a puzzle in itself, for the purposes of this analysis we can take it for granted that humans disagree all the time on every imaginable issue. Therefore, the assumption that both sides would agree on which side is how likely to win is not unreasonable, with the caveat that the disagreement has to be strong enough to overcome the cost of going to war in order to make a compromise unprofitable.
 
 There's some evidence to lend support to this view: in the paper, Fearon documents the example of the Russo-Japanese War of 1904-1905, in which the Japanese thought that they had a 50% chance of winning a war with Russia while the Russians thought they would almost certainly win a war with Japan. This asymmetry is big enough to overcome even large costs of going to war. Several other wars exhibit patterns that fit this picture as well, though it's unclear to what extent they were decisive. Here is a list of some *potential* examples:
 
@@ -63,7 +63,7 @@ Regardless of its serious shortcomings, I see this as the most convincing out of
 
 This one is a very popular argument that people familiar with game theory levy against pacifism. The idea is that we can model conflict by a payoff matrix as follows:
 
- X | War | Peace
+ - | War | Peace
 ------------ | ------------- | -------------
 War | ((V-C)/2, (V-C)/2) | (0, V)
 Peace | (V, 0) | (V/2, V/2)
@@ -74,7 +74,7 @@ The argument is that if we look at the *symmetric* version of the hawk-dove game
 
 This interpretation is certainly correct, but it has two problems:
 
-1. In the real world there are uncorrelated asymmetries. For example, animals create uncorrelated asymmetries in disputes by marking their own territory and defending it against intruders of the same species, and humans are very much capable of doing the same thing. In this case there is no conflict observed in the Nash equilibrium of the hawk-dove game.
+1. In the real world there are uncorrelated asymmetries. For example, animals create uncorrelated asymmetries in disputes by marking their own territory and defending it against intruders of the same species, and humans are very much capable of doing the same thing. In this case there is no conflict observed in the evolutionarily stable Nash equilibrium of the hawk-dove game.
 
 2. In the real world interactions between agents are repetitive, so an adequate model would have to be a repeated game model rather than a single game model, in which commitment strategies are possible to discourage people from going to war. In this case there is an evolutionarily stable Nash equilibrium in which both sides play peace but commit to playing war against "rebels" who try to play war. This pressure is sufficient to dissuade people from playing war, so in equilibrium we would once again observe no conflict. 
 
