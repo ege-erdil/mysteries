@@ -58,7 +58,7 @@ I go into more detail about this puzzle and criticize some of the attempts to re
 
 ## Bonus mysteries
 
-The mysteries in this section are not as important and in some cases might already have satisfactory resolutions, but nevertheless they are mysteries to me. Don't expect long expositions or separate pages on these mysteries.
+The mysteries in this section might already have satisfactory resolutions, but nevertheless they are mysteries to me. Don't expect long expositions or separate pages on these mysteries.
 
 ### Norms on completions of the rational numbers
 
