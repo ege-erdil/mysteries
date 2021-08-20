@@ -63,7 +63,7 @@ Regardless of its serious shortcomings, I see this as the most convincing out of
 
 This one is a very popular argument that people familiar with game theory levy against pacifism. The idea is that we can model conflict by a payoff matrix as follows:
 
- - | War | Peace
+ X | War | Peace
 ------------ | ------------- | -------------
 War | ((V-C)/2, (V-C)/2) | (0, V)
 Peace | (V, 0) | (V/2, V/2)
