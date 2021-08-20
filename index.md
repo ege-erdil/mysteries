@@ -3,8 +3,8 @@ This page contains a non-exhaustive list of big open problems that remain unsolv
 The list will be in descending order of importance that I assign to the puzzles. First, a list of the mysteries currently on the page:
 
 * [The Industrial Revolution](#the-industrial-revolution), [page link](./industrial_revolution)
-* [Why do wars happen?](#why-do-wars-happen?), [page link](./why_war)
-* [Nominal shocks have real effects?](#nominal-shocks-have-real-effects?), [page link](./nominal_real)
+* [Why do wars happen?](#why-do-wars-happen), [page link](./why_war)
+* [Nominal shocks have real effects?](#nominal-shocks-have-real-effects), [page link](./nominal_real)
 
 Now, we start with:
 
