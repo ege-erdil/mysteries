@@ -1,6 +1,12 @@
 This page contains a non-exhaustive list of big open problems that remain unsolved despite being both highly puzzling and of great significance. They have resisted attempts by countless people to explain them - perhaps you will succeed where they have failed?
 
-The list will be in descending order of importance that I assign to the puzzles. We start with:
+The list will be in descending order of importance that I assign to the puzzles. First, a list of the mysteries currently on the page:
+
+* [The Industrial Revolution](#the-industrial-revolution), [page link](./industrial_revolution)
+* [Why do wars happen?](#why-do-wars-happen?), [page link](./why_war)
+* [Nominal shocks have real effects?](#nominal-shocks-have-real-effects?), [page link](./nominal_real)
+
+Now, we start with:
 
 ### The Industrial Revolution
 
@@ -14,7 +20,7 @@ Just in case this description is not sufficiently evocative, here is a picture o
 
 ![Real GDP per capita](https://upload.wikimedia.org/wikipedia/commons/f/f3/World_GDP_Per_Capita_1500_to_2000%2C_Log_Scale.png)
 
-The transition was not even that smooth, and there's a visible elbow point on the graph around the year 1800. This is the mystery that has to be explained - so what explanations have people offered for this remarkable phenomenon? It's of course impossible for this list to be exhaustive, but I try to cover some of the common explanations along with the reasons why they fall short [here](https://ege-erdil.github.io/mysteries/industrial_revolution).
+The transition was not even that smooth, and there's a visible elbow point on the graph around the year 1800. This is the mystery that has to be explained - so what explanations have people offered for this remarkable phenomenon? It's of course impossible for this list to be exhaustive, but I try to cover some of the common explanations along with the reasons why they fall short [here](./industrial_revolution).
 
 ### Why do wars happen?
 
@@ -32,7 +38,7 @@ This toy model is interesting because it is a proof that one of its features mus
 
 An alternative account which is popular among people familiar with the [hawk-dove game](https://en.wikipedia.org/wiki/Chicken_(game)#Hawk%E2%80%93dove) is that many real world interactions between governments are essentially like a hawk-dove game in which the two sides are indistinguishable, so the only Nash equilibrium is one in which people play a mixed strategy between hawk and dove, resulting in occasional wars with some arrival rate when two players play hawk simultaneously. The obvious problem with this argument is that the two sides *are* in fact distinguishable in the real world, and under those conditions the hawk-dove game does *not* have a mixed Nash equilibrium: the two equilibria are the ones in which one player plays hawk and the other player plays dove, resulting in no wars being observed in equilibrium.
 
-More commentary on this puzzle and attempts to answer other criticisms may be found [here](https://ege-erdil.github.io/mysteries/why_war).
+More commentary on this puzzle and attempts to answer other criticisms may be found [here](./why_war).
 
 ### Nominal shocks have real effects?
 
@@ -50,4 +56,4 @@ This phenomenon, if real, allows monetary policy shocks to have a much more sign
 
 The fact that non-inflation indexed debt contracts, wage contracts, *et cetera* are common even in countries with relatively high inflation rates is not under dispute, though as Stephen Williamson points out in [*New Monetarist Economics: Models*](https://www.minneapolisfed.org/research/sr/sr443.pdf), there is some dispute about the extent to which price or wage stickiness beyond what is present in these contracts is a real phenomenon. The mystery here is why people wouldn't arrange debt and employment contracts, product orders and so on in such a way that they are naturally indexed against inflation, and why it would take them a long time to adjust when there is a change in the value of the currency. The Italian experiment cited above shows that economies are certainly easily capable of doing such a thing, so why don't they if these frictions impose such large costs? Or is the truth that the frictions *don't* impose large costs, and the nominal rigidity-based macroeconomic paradigm is simply mistaken?
 
-I go into more detail about this puzzle and criticize some of the attempts to resolve it [here](https://ege-erdil.github.io/mysteries/nominal_real).
+I go into more detail about this puzzle and criticize some of the attempts to resolve it [here](./nominal_real).
