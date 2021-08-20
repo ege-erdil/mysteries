@@ -6,8 +6,6 @@ The list will be in descending order of importance that I assign to the puzzles.
 * [Why do wars happen?](#why-do-wars-happen), [page link](./why_war)
 * [Nominal shocks have real effects?](#nominal-shocks-have-real-effects), [page link](./nominal_real)
 
-Now, we start with:
-
 ### The Industrial Revolution
 
 What is perhaps most mysterious about the [Industrial Revolution](https://en.wikipedia.org/wiki/Industrial_Revolution) is the lack of recognition among most people that there is a big mystery to be explained here. Wikipedia states that
@@ -57,3 +55,21 @@ This phenomenon, if real, allows monetary policy shocks to have a much more sign
 The fact that non-inflation indexed debt contracts, wage contracts, *et cetera* are common even in countries with relatively high inflation rates is not under dispute, though as Stephen Williamson points out in [*New Monetarist Economics: Models*](https://www.minneapolisfed.org/research/sr/sr443.pdf), there is some dispute about the extent to which price or wage stickiness beyond what is present in these contracts is a real phenomenon. The mystery here is why people wouldn't arrange debt and employment contracts, product orders and so on in such a way that they are naturally indexed against inflation, and why it would take them a long time to adjust when there is a change in the value of the currency. The Italian experiment cited above shows that economies are certainly easily capable of doing such a thing, so why don't they if these frictions impose such large costs? Or is the truth that the frictions *don't* impose large costs, and the nominal rigidity-based macroeconomic paradigm is simply mistaken?
 
 I go into more detail about this puzzle and criticize some of the attempts to resolve it [here](./nominal_real).
+
+## Bonus mysteries
+
+The mysteries in this section are not as important and in some cases might already have satisfactory resolutions, but nevertheless they are mysteries to me. Don't expect long expositions or separate pages on these mysteries.
+
+### Norms on completions of the rational numbers
+
+Why is the square root of the field norm on the field extension C/R also a vector space norm? 
+
+It's generally true that both the complex numbers and the p-adic numbers have the property that for any finite extension of degree n, the nth root of the absolute value of the field norm on the extension gives a vector space norm. In the case of Q_p, thanks to Hensel's lemma, this is equivalent to saying that the unit ball is closed under addition, which it is since it's just the ring of p-adic integers. However, in the archimedean case there is a puzzle that the claim just "happens to be true" for the only nontrivial finite extension of the real numbers, which is of course the complex numbers. 
+
+There's really no good *a priori* reason to expect this, as far as I am aware: most field norms don't correspond in this way to vector space norms, since the associated norm candidate doesn't satisfy the triangle inequality. It's one of the coincidences I find to be most puzzling in algebraic number theory.
+
+### The baby boom
+
+What caused the increase in total fertility rates in many Western countries following the Second World War? Was it the war itself, or did people have the kids they had been postponing until then due to the Great Depression, or was there some other reason? Was it the so-called [postwar economic boom](https://en.wikipedia.org/wiki/Post%E2%80%93World_War_II_economic_expansion) that was responsible?
+
+For such a remarkable demographic phenomenon, there is surprisingly little understanding of the causes of the baby boom and why it ended. Until then, total fertility rates had been in a downward trend throughout the Western world, and after this brief interruption in the postwar period the trend resumed until where we are today.
