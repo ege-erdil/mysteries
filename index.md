@@ -4,6 +4,7 @@ The list will be in descending order of importance that I assign to the puzzles.
 
 * [The Industrial Revolution](#the-industrial-revolution), [page link](./industrial_revolution)
 * [Why do wars happen?](#why-do-wars-happen), [page link](./why_war)
+* [Puzzle of excess volatility](#puzzle-of-excess-volatility), [page link](./excess_vol)
 * [Nominal shocks have real effects?](#nominal-shocks-have-real-effects), [page link](./nominal_real)
 
 ### The Industrial Revolution
@@ -37,6 +38,16 @@ This toy model is interesting because it is a proof that one of its features mus
 An alternative account which is popular among people familiar with the [hawk-dove game](https://en.wikipedia.org/wiki/Chicken_(game)#Hawk%E2%80%93dove) is that many real world interactions between governments are essentially like a hawk-dove game in which the two sides are indistinguishable, so the only Nash equilibrium is one in which people play a mixed strategy between hawk and dove, resulting in occasional wars with some arrival rate when two players play hawk simultaneously. The obvious problem with this argument is that the two sides *are* in fact distinguishable in the real world, and under those conditions the hawk-dove game does *not* have a mixed Nash equilibrium: the two equilibria are the ones in which one player plays hawk and the other player plays dove, resulting in no wars being observed in equilibrium.
 
 More commentary on this puzzle and attempts to answer other criticisms may be found [here](./why_war).
+
+### Puzzle of excess volatility
+
+The puzzle of excess volatility is the apparent paradox that broad market stock indices such as the S&P 500 are much more volatile than would be justified by the volatility of the underlying discounted dividend flows. It extends to other asset classes as well, such as foreign exchange and corporate bonds, but for now I'll focus only on the stock indices.
+
+Naively, we might expect that given a stock which pays a certain cash flow (including both dividends and buybacks) to the investors, the price of the stock would be the [present value](https://en.wikipedia.org/wiki/Present_value) of these cash flows discounted at some rate of return. If this were the case, volatility in stock indices would only be driven by volatility of expectations about future dividend flows. However, under this picture it's difficult to justify the observed volatility of stock indices, which is 15% annualized in good times and can go up to 80% annualized as we have seen in March 2020. This is because while there can be substantial uncertainty about *current* dividends, what dividends will be this quarter or this year should not have much effect on the stock price under a discount rate formalism.
+
+[*A little financial-econometric history*](https://johnhcochrane.blogspot.com/2020/07/a-little-financial-econometric-history.html) by John H. Cochrane summarizes the history of the puzzle and confirms the above reasoning. I highly suggest you read it, since it contains a lot of equations that I am unable to display here due to GitHub Markdown's lack of support for LaTeX. The upshot is that the data suggests all of the variation in dividend yields of broad market stock indices corresponds only to variation in future returns, with none of it corresponding to variation in future dividends. In other words, if prices are high today relative to dividends today, that doesn't mean dividends will grow faster in the future or that prices will grow faster in the future - it only means that you'll get, on average, a worse return that you would've otherwise got. The reason the naive argument fails is that it assumes rates of return don't vary over time, while variation in returns is the primary driver of the phenomenon of excess volatility.
+
+Of course, from one perspective this does nothing to resolve the puzzle because we can always, after appropriate [log-linearization](http://www.columbia.edu/~nc2371/teaching/R9.pdf) of the definition of returns, express the current price-dividend ratio in terms of future dividend growth, future returns and future price-dividend ratios. A true resolution of the puzzle would also include an explanation of *why* returns on the stock market vary by such huge amounts, and it's the explanation for this fact which has proved elusive. Read more about this puzzle, and attempts to resolve it, [here](./excess_vol).
 
 ### Nominal shocks have real effects?
 
