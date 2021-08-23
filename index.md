@@ -1,5 +1,9 @@
 This page contains a non-exhaustive list of big open problems that remain unsolved despite being both highly puzzling and of great significance. They have resisted attempts by countless people to explain them - perhaps you will succeed where they have failed?
 
+Test: 
+
+$$ a^2 + b^2 = c^2 $$
+
 The list will be in descending order of importance that I assign to the puzzles. First, a list of the mysteries currently on the page:
 
 * [The Industrial Revolution](#the-industrial-revolution), [page link](./industrial_revolution)
