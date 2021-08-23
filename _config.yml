@@ -1,5 +1,8 @@
 github:
   is_project_page: false
+markdown: kramdown
+kramdown:
+    math_engine: katex
 name: "Mysteries"
 title: "Mysteries"
 theme: jekyll-theme-midnight
