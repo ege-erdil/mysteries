@@ -71,14 +71,6 @@ I go into more detail about this puzzle and criticize some of the attempts to re
 
 The mysteries in this section might already have satisfactory resolutions, but nevertheless they are mysteries to me. Don't expect long expositions or separate pages on these mysteries.
 
-### Norms on completions of the rational numbers
-
-Why is the square root of the field norm on the field extension \\( C/R \\) also a vector space norm? 
-
-It's generally true that both the complex numbers and the p-adic numbers have the property that for any finite extension of degree n, the nth root of the absolute value of the field norm on the extension gives a vector space norm. In the case of \\( \mathbf Q_p \\), thanks to Hensel's lemma, this is equivalent to saying that the unit ball is closed under addition, which it is since it's just the ring of p-adic integers. However, in the archimedean case there is a puzzle that the claim just "happens to be true" for the only nontrivial finite extension of the real numbers, which is of course the complex numbers. 
-
-There's really no good *a priori* reason to expect this, as far as I am aware: most field norms don't correspond in this way to vector space norms, since the associated norm candidate doesn't satisfy the triangle inequality. It's one of the coincidences I find to be most puzzling in algebraic number theory.
-
 ### The baby boom
 
 What caused the increase in total fertility rates in many Western countries following the Second World War? Was it the war itself, or did people have the kids they had been postponing until then due to the Great Depression, or was there some other reason? Was it the so-called [postwar economic boom](https://en.wikipedia.org/wiki/Post%E2%80%93World_War_II_economic_expansion) that was responsible?
